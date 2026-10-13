@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **This repository is archived and no longer maintained here.**
+> `rofi-sys` now lives in the [`pnnl/lamellar`](https://github.com/pnnl/lamellar) monorepo at
+> [`communication_frameworks/rofi-sys`](https://github.com/pnnl/lamellar/tree/master/communication_frameworks/rofi-sys).
+> Please open issues and pull requests there. The full commit history was carried over;
+> commit SHAs differ from this repository.
+
 # rofi-sys #
 
 This system crate provides Rust language bindings (via the use of Bindgen) to the Rust-OFI library.
